@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Dev Pratap Singh👋
 
-<!--
-**Devpratapsingh204/Devpratapsingh204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE @ LPU  
+💻 Aspiring Data Scientist & Software Developer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Skills
+- C / C++
+- Python
+- Data Structures & Algorithms
+- HTML, CSS, JavaScript
+
+---
+
+## 🚀 Projects
+- AI Mental Health Chatbot 
+- OTT Platform 
+
+---
+
+## 📈 Currently Learning
+- DSA (LeetCode)
+- Data Science
+
+---
+
+## 📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/dev-pratap-singh-3349a6320/
