@@ -151,8 +151,14 @@ Python-based CPU scheduling simulator with visualization and algorithm compariso
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Devpratapsingh204&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devpratapsingh204&layout=compact&hide_border=true" height="170"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Devpratapsingh204&show_icons=true&include_all_commits=true&count_private=true&hide_border=true"
+    height="170"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devpratapsingh204&layout=compact&hide_border=true"
+    height="170"
+  />
 </p>
 
 <p align="center">
