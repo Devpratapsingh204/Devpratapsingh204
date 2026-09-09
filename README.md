@@ -99,17 +99,8 @@ Data Visualisation: Empowering Business with Effective Insights — Tata (Forage
 Responsive Web Design — freeCodeCamp
 Object-Oriented Programming & Programming in Java — neoColab
 ---
-📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Devpratapsingh204&show_icons=true&theme=default&hide_border=true" height="165" />
-  <img src="https://streak-stats.demolab.com/?user=Devpratapsingh204&hide_border=true" height="165" />
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devpratapsingh204&layout=compact&hide_border=true" height="165" />
-</p>
----
 🤝 Let's Connect
 📧 Email: devpratap284@gmail.com
-💼 LinkedIn: Dev Pratap Singh
-💻 GitHub: Devpratapsingh204
+💼 LinkedIn: https://www.linkedin.com/in/dev-pratap-singh-3349a6320/
+💻 GitHub: https://github.com/Devpratapsingh204
 ⭐ Feel free to explore my repositories and connect with me!
