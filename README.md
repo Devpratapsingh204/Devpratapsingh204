@@ -38,7 +38,7 @@ AI / Machine Learning
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" />
 <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/LLaMA-0467DF?style=flat-square&logo=meta&logoColor=white" />
+<img src="https://img.shields.io/badge/LLaMA-0467DF?style=flat-square" />
 </p>
 Development
 <p>
@@ -61,7 +61,7 @@ Currently Exploring
 <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
-<img src="https://img.shields.io/badge/Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloud-4285F4?style=flat-square" />
 </p>
 ---
 🚀 Featured Projects
@@ -102,7 +102,7 @@ Object-Oriented Programming & Programming in Java — neoColab
 📊 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Devpratapsingh204&show_icons=true&theme=default&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devpratapsingh204&hide_border=true" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=Devpratapsingh204&hide_border=true" height="165" />
 </p>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devpratapsingh204&layout=compact&hide_border=true" height="165" />
