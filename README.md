@@ -23,7 +23,7 @@
 - 🔭 Currently building projects in **AI/ML, Data Science & Software Development**
 - 🧠 Strengthening **Data Structures & Algorithms** and problem-solving skills
 - 🛠️ Interested in **Machine Learning, Generative AI, Data Engineering & Backend Development**
-- 📚 Exploring **Big Data, DevOps & Cloud technologies**
+- 📚 Exploring **Big Data, UI-UX & Cloud technologies**
 - 🎯 Preparing for **Software Engineering & AI/ML internships**
 
 ---
